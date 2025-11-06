@@ -17,5 +17,5 @@ El objetivo es aprender paso a paso cómo crear, consultar y gestionar bases de 
 ## 🗂️ Estructura del proyecto
 
 El repositorio está organizado en carpetas separadas por clases o temas.  
-Ejemplo de estructura:
+
 
